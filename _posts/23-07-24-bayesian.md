@@ -1,0 +1,28 @@
+---
+layout: post
+title: VIASM Bayesian school on Bayesian Statistics and Computation
+---
+
+For the last two weeks, I have been attending a summer school of Bayesian Statistics and Computation, organized by VIASM (probably stands for vietnam institute for the advance study of maths). This is basically a masterclass on the topic because textbook-writers of the field are there, including Professor Aad van der Vaart (books on Bayesian nonparametrics) and Christian Robert (books on Monte Carlo Statistical Methods).
+
+## Curriculum
+
+The main activity of the school is a highly intensive course series, comprising of 3 big themes:
+- Course A: Foundations of Bayesian Statistics
+    - Prof. Surya Tokdar (Duke Univerisity): the motivation of probabilities, Bayes theorem, the Bayesian inference method, shrinkage and its sophistication.
+    - Prof. Jaeyong Lee (Seoul National University): confident interval of the frequentists vs credit sets of Bayesians, Bayesian inference
+- Course B: Bayesian nonparametrics (I mostly didn't understand the contents here)
+    - Prof. Aad van der Vaart (Netherlands)
+    - Prof. Igor Pruenster (Italy)
+    - Prof. Antonio Lijoi (Italy)
+ - Course C: Bayesian computation
+    - Prof. Alex Thiery (NUS)
+    - Prof. Christian Robert (France): Monte Carlo methods for simulations
+
+## Aftermath Feelings
+
+I walked into the summer school with a naive assumption that a good English listening skill is enough to grasp the knowledge. That assumption failed miserably. I got lost right at the first lecture of Prof. Tokdar when he started to write Bayesian theorem for continuous random probability distribution. That is my average situation for the subsequent lecture.
+
+Previously, I "knew" about Bayes via the classic theorem and the Naive Bayes classifier (which is usually discrete), which I learned from the practical standpoint to apply to Machine Learning. Therefore, I consulted the book A.I.: A Modern Approach (Russel and Norvig) and tried to grasp what those "familiar" teachers of mine talked about Bayesian theories. Surprisingly, the book said that Bayesian theorem in AI context is usually applied in the discrete form, which I am still not sure if it is correct (or, correctly understood by me).
+
+For what it's worth, I love the Bayesian philosophy. It is a mathematical framework of incorporating "domain knowledge" into our probabilistic/statistical model of the world via the "prior" distributions. From that, a lot of brilliant ways to predict the future are born, even with very limited amount of data. Some of the ideas that I can understand are: the art of choosing the priors to maximize the learning from data, using "indirect evidence" via the "shrinkage" technique, Bayesian inference, inference model with infinitely many parameters (nonparametrics), applying to sampling from a distribution, etc. This was really a feast of maths that I rarely have a chance to enjoy before.
