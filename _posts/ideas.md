@@ -1,0 +1,10 @@
+- game engine: I made a game engine in two days
+  - motivation, my background
+  - literature review
+  - system design
+  - experimental results
+- On Education -- Liberal Arts, Deliberate Practice
+  - just graduated from fulbright, thinking a lot about the worth of 4 years and 400 million VND
+- Productivity -- not as important...
+  - how tired i am with thinking about the worthless topics
+- my capstone project on symbolic regression
