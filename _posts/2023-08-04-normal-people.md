@@ -6,6 +6,7 @@ layout: post
 I just finished the book after about two weeks of reading it on bed, before and after sleeps. So many thoughts and emotions right now. As someone on Youtube (the trailer of this book's movie adaptation) says, read this book if you want to "feel something". I am definitely feeling a lot of things.
 
 ![The movie adaptation of the book](/assets/normal-people.jpg)
+
 *The movie adaptation of the book. Looks like a nice one. Will watch it...*
 
 **Recap of the book.** (Spoiler alert!) 
