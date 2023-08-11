@@ -6,15 +6,13 @@ permalink: /about/
 
 Hello! This page serves as my informal and 'non-standard' self-introduction.
 
-## Who I really am
-
-I have been consistenly fascinated by numbers and computers. Since 2015, I have learned Math and coding a lot. I started out as a Math student in grade schools, then switched to Computer Science because of the job prospects. But to be fair, programming feels like telekenesis to me. I may skip a lunch to try building a mobile app, for no reason. 
+I have been consistenly fascinated by numbers and computers, probably since 2015 when I began to specialize my training in Maths and coding. I started out as a Math student in grade schools, before switching to Computer Science for better job prospects. But to be fair, programming always feels as magical as telekenesis to me. I may skip a lunch to try building a mobile app, for no reason. 
 
 Regarding my personalities, my friends tell me that I am philosophical and optimistic. I usually ask people about their purposes in life. I believe most people are born with a purely kind heart, grow into badness at varying degrees, and can be good if they will.
 
-I love team sports. I mostly play ultiamate frisbee and badminton, and enjoy watching soccer.
+I love team sports. I mostly play ultiamate frisbee and badminton, and while watching soccer.
 
-If you have anything in common with me, please say hi. I do like making new friends.
+If you have anything in common with me, say hi! I do like making new friends.
 
 ## Hall of Shame
 *In reversed chronological order. To be updated.*
