@@ -18,7 +18,7 @@ layout: post
     - Doing this would create a larger (more rows) and richer (more columns) dataset about the market, which would eventually be use for (1) market trend analysis and (2) adhoc lookup of some specific medicine.
   - Research question: How to do that?! How to *effectively group* identical items from both tables together? A matching group has at least one item from each table, which both refer to the same real-life medicine.
     - Optimization metrics include precision, recall, development time, and system reusability.
-  - This problem is a bit analogous to [Coreference Resolution](/_posts/2023-08-02-coreference-resolution.md) because the goal is also to determine groups of things that refer to the same real-world entity. Therefore, we cast it to a classification problem -- determining whether two items, each of which from a table, are refencing two the same actual medicine.
+  - This problem is a bit analogous to [Coreference Resolution]({%post_url 2023-08-02-coreference-resolution%}) because the goal is also to determine groups of things that refer to the same real-world entity. Therefore, we cast it to a classification problem -- determining whether two items, each of which from a table, are refencing two the same actual medicine.
 - The data is quite messy.
   - Out of 20 and 25 columns from each table, six of them are explicitly shared, including:
     - product name (e.g., "GILOBA PHYTOSOME" or "Giloba")
