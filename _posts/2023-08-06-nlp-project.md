@@ -6,28 +6,26 @@ layout: post
 <!-- TODO: Abstract?  -->
 
 ## Introduction
-- invited by a friend to work for their team on data analytics (freelance, one month). The motivations were to (1) practice NLP, (2) fill in my free time before flights and (3) earn a bit of money.
-  - I have done 2 NLP projects before, one about text classification in financial domain (which turns out to require a more similar skillset as this project), and one in learning *embeddings* in source code.
-- Problem: 
-  - Given two tables recording (intendedly) all medicines in Vietnam's pharmaceutical market.
-    - The first table comes from a government official source, written mostly in Vietnamese, with ~45K rows and ~20 columns.
+- I was invited by a friend to work for their team on data analytics (freelance, one month). My motivations were to (1) practice NLP, (2) fill in my free time before flights and (3) earn a bit of money. I have done 2 NLP projects before, one about text classification in financial domain (which required a similar skill set as this project), and one in learning *embeddings* in source code.
+
+- **Background**: I am given two tables recording (intendedly) all medicines in Vietnam's pharmaceutical market.
+    - The first table: comes from a government official source, written mostly in Vietnamese, with ~45K rows and ~20 columns.
     - The second table comes from a market research agency who also manually captured the market. It has ~90K rows and ~25 (slighyly different) columns, and was written in (very concise and "notational") English.
     - They overlap and complement each other quite a bit.
-    - (More description below)
-  - It is of business interest to "match" items from these two tables together.
-    - Doing this would create a larger (more rows) and richer (more columns) dataset about the market, which would eventually be use for (1) market trend analysis and (2) adhoc lookup of some specific medicine.
-  - Research question: How to do that?! How to *effectively group* identical items from both tables together? A matching group has at least one item from each table, which both refer to the same real-life medicine.
+    - It is of business interest to "match" items from these two tables together. Doing this would create a larger (more rows) and richer (more columns) dataset about the market, which would eventually be useful for (1) market trend analysis and (2) adhoc lookup of some specific medicine.
+  - **Research question**: How to *effectively group* identical items from both tables together? A _matching group_ has at least one item from each table, which both refer to the same real-life medicine.
+  - **Remarks**
     - Optimization metrics include precision, recall, development time, and system reusability.
-  - This problem is a bit analogous to [Coreference Resolution]({%post_url 2023-08-02-coreference-resolution%}) because the goal is also to determine groups of things that refer to the same real-world entity. Therefore, we cast it to a classification problem -- determining whether two items, each of which from a table, are refencing two the same actual medicine.
-- The data is quite messy.
-  - Out of 20 and 25 columns from each table, six of them are explicitly shared, including:
-    - product name (e.g., "GILOBA PHYTOSOME" or "Giloba")
-    - manufacturer name (e.g., "MEGA LIFESCIENCES" or "Mega Lifesciences Public Company Limited")
-    - molecule (e.g., "GINKGO BILOBA" or "Cao ginkgo billoba (dưới dạng ginkgo biloba phytosome) 40mg")
-    - pack strength (e.g., "40MG" or "40mg")
-    - pack form (e.g., "SOFTCAP" or "Viên nang mềm")
-    - unit pack (e.g., "30" or "Hộp 3 vỉ x 10 viên")
-  - The shared columns are usually written in very different ways, and the syntaxes varied a lot. 
+    - This problem is a bit analogous to [Coreference Resolution]({%post_url 2023-08-02-coreference-resolution%}) because the goal is also to determine groups of things that refer to the same real-world entity. Therefore, we can cast it to a classification problem -- determining whether two items, each of which from a table, are referencing two the same actual medicine.
+  - The data is quite messy.
+    - Out of 20 and 25 columns from each table, six of them are explicitly shared, including:
+      - product name (e.g., "GILOBA PHYTOSOME" or "Giloba")
+      - manufacturer name (e.g., "MEGA LIFESCIENCES" or "Mega Lifesciences Public Company Limited")
+      - molecule (e.g., "GINKGO BILOBA" or "Cao ginkgo billoba (dưới dạng ginkgo biloba phytosome) 40mg")
+      - pack strength (e.g., "40MG" or "40mg")
+      - pack form (e.g., "SOFTCAP" or "Viên nang mềm")
+      - unit pack (e.g., "30" or "Hộp 3 vỉ x 10 viên")
+    - The shared columns are usually written in very different ways, and the syntaxes varied a lot. 
 
 *To be continued...*
 
