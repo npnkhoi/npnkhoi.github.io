@@ -1,4 +1,4 @@
 ---
 layout: posts
-title: Blogs
+title: Blog
 ---
