@@ -31,7 +31,7 @@ Sklearn called it [exhaustive grid search](https://scikit-learn.org/stable/modul
 ## "Optimizing accuracy"
 As usual, I take this chance to think a bit more broadly. And I realized I had been constantly surprised by how inexperienced I am compared to my undergrad friends in optimizing for accuracy in ML. Somehow, a lot of them are very pragmatic and could achieve really high results on unseen data. I was in a Machine Learning class where my ranking is right at the middle, which means my ML engineering skill is around the average.
 
-But that should not be surprising. Training a ML model is a dark art. It a place where [good execution is needed more than good ideas]({%post_url 2023-09-20-fall-utd%}). There is so many tricks you can do to achieve a good score, and most of the tricks are based on the so-called experiences and intuitions. It is probably not a skill where you can take shortcuts by being a good mathematician, rationalizing the problem, predicting that technique would work without actually running experiments. Unfortunately, that is the mindset I am unembarassedly embracing.
+But that should not be surprising. Training a ML model is a dark art. It a place where [good execution is needed more than good ideas]({%post_url 2023-09-19-educator%}). There is so many tricks you can do to achieve a good score, and most of the tricks are based on the so-called experiences and intuitions. It is probably not a skill where you can take shortcuts by being a good mathematician, rationalizing the problem, predicting that technique would work without actually running experiments. Unfortunately, that is the mindset I am unembarassedly embracing.
 
 ## From Here
 
