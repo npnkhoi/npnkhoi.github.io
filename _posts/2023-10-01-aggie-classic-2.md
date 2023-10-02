@@ -20,14 +20,14 @@ Game 6: UTD - Tarelton (-State University?). We lost.
 - This team is more athletic than us.
 - Defensively, Tarelton has a player poaching one of our cutters (which are in the vert. stack). This made our offense hard.
 - In this match, the coaches decided we should play ho-stack when seeing the vert-stack doesn't work.
-	- **Horizon stack** basically has 2 horizontal lines of 3 (lower, handlers) and 4 (higher, cutters). It worked particularly well for swingings, thus suitable for counter the zone (i.e., cup) defense.
+	- **Horizontal stack** basically has 2 horizontal lines of 3 (lower, handlers) and 4 (higher, cutters). It worked particularly well for swingings, thus suitable to counter the zone (i.e., cup) defense.
 	- Most of the time, 3 handlers flow the disc by swinging.
-	- Among 4 cutters, the middle two are **poppers**, who are split to run deep and under to tear our the defenders. The other two are **swings**, who basically (1) distract the deep defender and (2) go under to get the disc from the side handler if possible.
-- Being a swing, I don't remember making any significant contributions in this game. I even messed up with my cuts (slow undercuts, sticking in the deep for too long, etc.)
+	- Among 4 cutters, the middle two are **poppers**, who are split to run deep and under to tear our the defenders. The other two are **wings**, who basically (1) distract the deep defender and (2) go under to get the disc from the side handler if possible.
+- Being a wing, I don't remember making any significant contributions in this game. I even messed up with my cuts (slow undercuts, sticking in the deep for too long, etc.)
 
 Game 7: UTD - Sam Houston. We lost.
 - They played zone defense, so we had to adjust our ho-stack by asking both poppers to go under (but not into the cup) as soon as they saw an open space.
-- I think I scored once by sneaking behind the end-zone defenders. An easy one. I didn't spike this time so that no more discs are destroyed.
+- I scored once by sneaking behind the end-zone defenders. An easy one. I didn't spike this time so that no more discs are destroyed.
 - In the last point, I played well. I defended by shuffling and using body to block undercuts. In offense, as a popper, I found some nice open space to cut in and got the disc. Unluckily, we lost that point and the match.
 
 (Game recordings may be published later.)
@@ -44,7 +44,7 @@ As an avid player from a Vietnamese college moving to the US, this tournament al
 	- After a winning point, they all storm to the field and cheer everyone. It is both cute and warm.
 	- After a losing point, they shout "We up!" and console the line.
 - Our coaches also emphasized the culture of *asking questions*. They seriously thank and recognize us after a game where we asked questions about technicality, game rules, etc. They said asking questions is a sign of an enthusiastic learner, to which I agree.
-- After a game, our team (UTD) sit together and do the following. Each person will anonymously describe another that makes them feel good or learn a lot from during the tournament. Then they announce their name, and pass a [CENSORED] object to that person. The chain goes around until everyone is addressed. It was truly heart-warming to be in that cycle.
+- After a game, our team (UTD) sit together and do the following. Each person will anonymously describe another that makes them feel good or learn a lot from during the tournament. Then they announce their name, and pass a [CENSORED] object to that person. The chain goes around until everyone is addressed. It was truly heart-warming to be in that circle.
 - In men's ultimate here, it seems like they rarely have spirit circles. Instead, they form two circles to talk internally and shout "Good game, {other team}".
 - Students here have greatly supportive parents. They drove hours to see their kids playing, sitting on the sideline, and cheer them.
 - US students have cars. I went with them in their cars for 200 miles to the tournament.
