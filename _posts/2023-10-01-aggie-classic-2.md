@@ -13,13 +13,13 @@ I first recap our last 3 matches. Then I will reflect about the whole experience
 
 Game 5: UTD 13 - ? SFA. We won by a large margin.
 - We won pretty easily. They forced backhand?!
-- I think I scored once here (or maybe the next game). After someone called "end zone" on our vert. stack, I was at the top. I first cut to the break side, which was initially a bad idea because it was not open. But then the handler reset the disk, to the open side. I am the third man in that situation, so I stroke while my marker did not notice. I scored, spiked the disc, and it got warped.
+- I think I scored once here (or maybe the next game). After someone called "end zone" on our vert-stack, I was at the top. I first cut to the break side, which was initially a bad idea because it was not open. But then the handler reset the disk, to the open side. I am the third man in that situation, so I stroke while my marker did not notice. I scored, spiked the disc, and it got warped.
 - We used this chance to practice our vert. stack. The point is to push the stack up, except Number 1, whenever Number 5 cuts and clears.
 
 Game 6: UTD - Tarelton (-State University?). We lost.
 - This team is more athletic than us.
 - Defensively, Tarelton has a player poaching one of our cutters (which are in the vert. stack). This made our offense hard.
-- In this match, the coaches decided we should play ho-stack when seeing the vert-stack doesn't work.
+- In this match, the coaches decided we should play ho-stack when seeing the vert-stack not working well.
 	- **Horizontal stack** basically has 2 horizontal lines of 3 (lower, handlers) and 4 (higher, cutters). It worked particularly well for swingings, thus suitable to counter the zone (i.e., cup) defense.
 	- Most of the time, 3 handlers flow the disc by swinging.
 	- Among 4 cutters, the middle two are **poppers**, who are split to run deep and under to tear our the defenders. The other two are **wings**, who basically (1) distract the deep defender and (2) go under to get the disc from the side handler if possible.
