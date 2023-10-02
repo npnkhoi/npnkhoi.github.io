@@ -8,6 +8,9 @@ Previously: [Aggie Classic - Day 1]({%post_url 2023-09-30-aggie-classic-1%}), [M
 I first recap our last 3 matches. Then I will reflect about the whole experience of playing here.
 
 ## Matches Recap
+
+![The field](../assets/aggie-classic-2.jpeg)
+
 Game 5: UTD 13 - ? SFA. We won by a large margin.
 - We won pretty easily. They forced backhand?!
 - I think I scored once here (or maybe the next game). After someone called "end zone" on our vert. stack, I was at the top. I first cut to the break side, which was initially a bad idea because it was not open. But then the handler reset the disk, to the open side. I am the first man in that situation, so I stroke while my marker did not notice. I scored, spiked the disc, and it got warped.
@@ -30,6 +33,10 @@ Game 7: UTD - Sam Houston. We lost.
 (Game recordings may be published later.)
 
 ## Observations
+
+![WOOF, the team of UT Dallas](../assets/aggie-classic.jpeg)
+*WOOF, the team of UT Dallas*
+
 As an avid player from a Vietnamese college moving to the US, this tournament allowed me to technically learn so much and culturally experience much more. I am listing my observations randomly below:
 - Our coaches emphasized the important of the sideline in the play of a team. Compared to soccer or basketball, non-playing players have to sit on the bench. Here, they need to stand up. 
 	- Before the pull, they sing spiritual songs and make noise. 
