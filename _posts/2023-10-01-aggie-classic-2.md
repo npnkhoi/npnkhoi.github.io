@@ -9,7 +9,7 @@ I first recap our last 3 matches. Then I will reflect about the whole experience
 
 ## Matches Recap
 
-![The field](../assets/aggie-classic-2.jpeg)
+![The field](/assets/aggie-classic-2.jpeg)
 
 Game 5: UTD 13 - ? SFA. We won by a large margin.
 - We won pretty easily. They forced backhand?!
@@ -34,7 +34,7 @@ Game 7: UTD - Sam Houston. We lost.
 
 ## Observations
 
-![WOOF, the team of UT Dallas](../assets/aggie-classic.jpeg)
+![WOOF, the team of UT Dallas](/assets/aggie-classic.jpeg)
 *WOOF, the team of UT Dallas*
 
 As an avid player from a Vietnamese college moving to the US, this tournament allowed me to technically learn so much and culturally experience much more. I am listing my observations randomly below:
