@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ramping up to the first Ultimate tournament
+title: Ramping up to the first US Ultimate tournament
 ---
 
 Lessons these days:
