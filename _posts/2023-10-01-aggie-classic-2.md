@@ -40,7 +40,7 @@ Game 7: UTD - Sam Houston. We lost.
 As an avid player from a Vietnamese college moving to the US, this tournament allowed me to technically learn so much and culturally experience much more. I am listing my observations randomly below:
 - Our coaches emphasized the important of the sideline in the play of a team. Compared to soccer or basketball, non-playing players have to sit on the bench. Here, they need to stand up. 
 	- Before the pull, they sing spiritual songs and make noise. 
-	- In game, they call 'UP!'. They communicate with the defenders about the cutters' position (which they cannot see) -- phrases like "you are not, X", or "no around/no strike", "inside/around", "more left, more right", "left/right" (about the disc).
+	- In game, they call 'UP!'. They communicate with the defenders about the cutters' position (which they cannot see) -- phrases like "you're hot, X", or "no around/no strike", "inside/around", "more left, more right", "left/right" (about the disc).
 	- After a winning point, they all storm to the field and cheer everyone. It is both cute and warm.
 	- After a losing point, they shout "We up!" and console the line.
 - Our coaches also emphasized the culture of *asking questions*. They seriously thank and recognize us after a game where we asked questions about technicality, game rules, etc. They said asking questions is a sign of an enthusiastic learner, to which I agree.

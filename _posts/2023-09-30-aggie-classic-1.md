@@ -16,7 +16,7 @@ Game 2: UTD 7 - 6 Texas Tech University (!!)
 - Score once by running to the open side in the end-zone vert stack. Again, best feeling.
 - This is officially the first win of a team where I'm in in a tournament.
 
-Game 3: UTD 8 - 11 UT Austin
+Game 3: UTD 8 - 11 Texas State University
 - They were much better than us, but we scored a continuous 4-5 points in the second half.
 - I got stomach cramp, probably by drinking too much water. I called injury (instead of insisting to be on the field). That helped the team. Ultimate is pretty much a selfless sport.
 - I chose a short (but actually very fast) guy to defend. First time, I could not follow him closely and let him score. Second time, when we just pulled, I ran towards him assuming he would be in their stack. But he was running deep and they immediately scored because I could not follow him. I quit defending him afterwards.
