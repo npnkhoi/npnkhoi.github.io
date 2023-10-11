@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Sructures Review
+title: Data Structures Review
 ---
 
 *A review for the midterm of CS5343*
