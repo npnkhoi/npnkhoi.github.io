@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Operating Systems -- Midterm Review
+tags: cs
 ---
 (This post is generated for me to review knowledge in CS5348 before the midterm)
 

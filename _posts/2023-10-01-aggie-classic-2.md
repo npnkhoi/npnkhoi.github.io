@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Aggie Classic - Day 2
+tags: ultimate
 ---
 
 Previously: [Aggie Classic - Day 1]({%post_url 2023-09-30-aggie-classic-1%}), [My pre-tourney individual goals]({%post_url 2023-09-29-first-ultimate-tourney%}).

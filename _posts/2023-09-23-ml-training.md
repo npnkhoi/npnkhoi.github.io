@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An Average Machine Learning Practitioner
+tags: ml
 ---
 
 TLDR: I show two cool ML tricks. 'Grid search' is a wrong name. And I am average in training ML models.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Some Badminton Lessons
+tags: sports
 ---
 
 I played badminton since I was a kid, not because I am a prodigy, but as it is a beginner-friendly sport. That said, I rarely have any formal training until college. Generally, I just pick up lessons along the way from environmental feedback, like a reinforcement learning agent. And here are some that I picked up today after 4 hours of playing.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: He cut his own hair
+tags: life
 ---
 
 Listen to [the Jazz soundtrack I used while cutting my hair](https://www.youtube.com/watch?v=LqME1y6Mlyg)

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Invitation to Book Exchange
+tags: life
 ---
 
 I’m looking for people to participate in a huge book exchange. All you have to do is buy your favorite book (just one) and send it to a stranger (I’ll send their details through in a private message). 

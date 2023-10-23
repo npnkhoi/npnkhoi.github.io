@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Productive breaks
+tags: productivity
 ---
 
 These days, I usually have to do some repetitive tasks like grading and data labelling. These tasks should ideally be automated, but it is a long way until it is.

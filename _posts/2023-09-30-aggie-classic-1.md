@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Aggie Classic - Day 1
+tags: ultimate
 ---
 
 I am at my first US college-level Ultimate tournament. It is called Aggie Classic, hosted by Texas A&M. Here's a recap of day 1.

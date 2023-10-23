@@ -55,3 +55,7 @@ plugins:
 
 # Google Analytics
 google_analytics: G-VDHZ9BQ806
+
+# Mics
+page_excerpts: true
+show_excerpts: false

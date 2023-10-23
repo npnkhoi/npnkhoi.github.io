@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Minimal Ubuntu Setup
+tags: productivity
 ---
 
 After the [catastrophic failure]({%post_url 2023-09-05-digital-world%}) of Ubuntu on my laptop, I got some help from the IT office of my unversity and realized my laptop was actually not 'bricked' yet. After some efforts to revive the OS without losing personal files, I decided to erase everything and reinstall the OS again with my USB stick because the offline files on the computer is not that important anyway. And it is now alive again! But now I faced a new problem -- setting up the computer again. I wanted to be mindful about my installations, trying not to install uncessary things, and taking notes of them. I will my installations after the last 2 days below.
