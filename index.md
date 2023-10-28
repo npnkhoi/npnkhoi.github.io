@@ -10,7 +10,7 @@ bibliography: pub.bib
 
 Profiles: [Google Scholar](https://scholar.google.com/citations?user=-oyrpkoAAAAJ&hl=en) - [GitHub](https://github.com/npnkhoi) - [LinkedIn](https://www.linkedin.com/in/npnkhoi/)
 
-I am Khoi, a PhD student in [Computer Science at the University of Texas at Dallas](https://cs.utdallas.edu/). I am studying Natural Language Processing theory and applications into software engineering, argument mining, etc. In the past, I also worked with [Dr. Raghuram Ramanujan](https://www.davidson.edu/people/raghu-ramanujan) on Monte Carlo Tree Search.
+I am Khoi, a PhD student in [Computer Science at the University of Texas at Dallas](https://cs.utdallas.edu/). I study Natural Language Processing under the supervision of [Dr. Vincent Ng](https://www.hlt.utdallas.edu/~vince/). Currently I am working on argument mining and multimodal reasoning. In the past, I also worked with [Dr. Raghuram Ramanujan](https://www.davidson.edu/people/raghu-ramanujan) on Monte Carlo Tree Search.
 
 <!-- Research interests:
 1. Natural Language Processing: text embeddings, text generation, speech recognition, program synthesis, etc.
@@ -36,5 +36,5 @@ I am Khoi, a PhD student in [Computer Science at the University of Texas at Dall
 
 
 # Misc
-- During high school and college, I practiced Competitive Programming, competing at national and regional level. ([my CodeForces profile](https://codeforces.com/profile/pazabol) -- [press](https://fulbright.edu.vn/fulbright-students-win-bronze-medal-at-icpc-asia-can-tho-regional-contest/)).
+- During high school and college in Vietnam, I practiced Competitive Programming, competing at national and regional level. ([my CodeForces profile](https://codeforces.com/profile/pazabol) -- [press](https://fulbright.edu.vn/fulbright-students-win-bronze-medal-at-icpc-asia-can-tho-regional-contest/)).
 <!-- - Other press: [[1]](https://fulbright.edu.vn/fulbright-grants-first-awards-for-series-of-community-minded-projects/), [[2]](https://baokhanhhoa.vn/xa-hoi/giao-duc/201505/rieng-uoc-mo-chung-dam-me-2387073/) -->
