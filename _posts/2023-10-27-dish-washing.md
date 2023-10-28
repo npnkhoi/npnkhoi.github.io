@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Washing dished (in mindfulness)
+title: Washing dishes (in mindfulness)
 tags: life
 ---
 
