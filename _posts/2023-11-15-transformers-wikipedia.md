@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Transformer article on Wikipedia
+tags: cs
 ---
 
 This Wikipedia article about transformer is a better read than the original paper as well as the formalization paper. Learnings from this read are:
