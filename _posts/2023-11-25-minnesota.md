@@ -6,6 +6,9 @@ tags: life
 
 Went to Minnesota to celebrate Thanksgiving with a host family that is 6 generations away from me (!). Aftermaths are a lot to unpack, revisit, and reflect.
 
+![Mississipi river](/assets/mississipi.jpeg)
+*Mississipi river*
+
 The memories
 - Found out about packing rules of Sun Country and Spirit. Struggled a bit to pack all belongings in a school backpack. Eventually it worked.
 - (Appreciated deodorant.)
@@ -21,14 +24,10 @@ The memories
     - [U. of Minnesota](https://twin-cities.umn.edu/): like an entire downtown area itself -- big and pretty modern.
 - Ate good food at an El Azteca outlet.
 - Wrote in my journal "spending ones of the best days in the US so far".
-
 - Went to [Science Museum of Minnesota](https://new.smm.org/). Actually first time to a science museum, so pretty happy to see STEM experiments on display.
 
 ![Downtown St. Paul](/assets/downtown-st-paul.jpeg)
-Downtown St. Paul
-
-![Mississipi river](../assets/mississipi.jpeg)
-Mississipi river
+*Downtown St. Paul*
 
 - Ate *Minnesota Wild Rice*, which is a soup of chicken and some veggies that can be served in a "cup". Embarrassedly asked my host for payment help because the restaurant did not accept ApplePay.
 - Saw *Minnehaha Falls* (funny name huh?) at sunset. Surprised to see such a nice natural sight remained as a public place for trails instead of being privately owned.
@@ -39,6 +38,9 @@ Mississipi river
     - Talked with distant relatives. Watched [The Menu](https://en.wikipedia.org/wiki/The_Menu_(2022_film)) but did not heard the audio clearly.
     - Walked in a 1-mile trail at 25 degree Fahrenheit.
     - Learned to scored >100 points in a Bowling round. Played with the host family. Much fun.
+
+![Minnehaha Falls](/assets/minnehaha.jpeg)
+*Minnehaha Falls*
 
 Some ideas for lifestyle-building
 - I should define my own rich life, carefully.
