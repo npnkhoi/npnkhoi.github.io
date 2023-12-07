@@ -1,6 +1,7 @@
 ---
 title: Transformer is not an RNN?
 layout: post
+tags: cs
 ---
 
 I am reading about the fundamentals related to Transformers, starting with the arxiv paper from DeepMind last year -- _Formal Algorithms for Transformers_ [1] -- and connecting that with the knowledge about previous models -- RNN and LSTM. A surprise I found: While an LSTM is a RNN, a Transformer is not. RNN and Transformer are different in (surprisingly) several ways:

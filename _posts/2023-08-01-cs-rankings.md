@@ -1,6 +1,7 @@
 ---
 title: Thinking about rankings of universities
 layout: post
+tags: education
 ---
 
 As I am going to the US for my graduate study, I think about university rankings quite a bit. 

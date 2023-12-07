@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My 4-year experiment on productivity
+tags: productivity
 ---
 
 ## Intro

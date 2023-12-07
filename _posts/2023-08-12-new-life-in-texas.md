@@ -1,6 +1,7 @@
 ---
 title: New life in Texas
 layout: post
+tags: life photo
 ---
 
 This post is a photo dump about my little adventure in Richardson today.

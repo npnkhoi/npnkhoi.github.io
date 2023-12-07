@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A train back home
-tags: travel
+tags: life
 ---
 
 ![On the train from Sai Gon to Khanh Hoa](/assets/train-sg-kh.jpg)

@@ -1,6 +1,7 @@
 ---
 title: (Book) Normal People by Sally Rooney
 layout: post
+tags: book
 ---
 
 I just finished the book after about two weeks of reading it on bed, before and after sleeps. So many thoughts and emotions right now. As someone on Youtube (the trailer of this book's movie adaptation) says, read this book if you want to "feel something". I am definitely feeling a lot of things.

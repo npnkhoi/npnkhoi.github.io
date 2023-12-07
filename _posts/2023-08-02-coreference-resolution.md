@@ -1,6 +1,7 @@
 ---
 title: Coreference Resolution
 layout: post
+tags: cs
 ---
 
 So I am reading about *coreference resolution* (CR), a topic that my potential PhD advisor has many contributions in. CR is the task of determine the nounphrases in a text that points to the same real-world entity and phenomenon. You may understand this definition but have difficulties to appreciate its importance. I was at the same situation. It turns out, arguably the most notable application of CR is in information retrieve and question answering. Consider the following paragraph:

@@ -1,6 +1,7 @@
 ---
 title: "Text matching in pharmacy: A Summer NLP project (part 1)"
 layout: post
+tags: cs
 ---
 
 <!-- TODO: Abstract?  -->

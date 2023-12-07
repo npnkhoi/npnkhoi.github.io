@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Digital World
+tags: life
 ---
 
 The last three days without any posts can be legitimately attributed to the fact that my laptop has been broken very seriously. I was just poking it on the software level, specifically changing an NVIDIA driver. I did not know the new driver I chose was wrong, and more importantly, if I rebooted by computer after that, I would not be able to wake it up again. Now my computer is just a piece of metal, because when booting, it just shows a black screen with some dim light. I posted [a question](https://askubuntu.com/questions/1484632/black-screen-before-grub-after-nvidia-driver-update) on AskUbuntu, but looks like no one knows the answer to my question. Now I am a PhD student in Computer Science without a personal computer. There were multiple stages of grieving after this incident, including panicking, extreme sadness, acceptance, work-around, and enlightment. I want to share about some enlightments.
