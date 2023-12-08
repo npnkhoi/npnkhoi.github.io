@@ -39,6 +39,7 @@ Deletion:
 	3. Otherwise, if the nephew is red:
 		- rotate to bring the red to the shortage area. Then change it to black. **No problem anymore, break the loop.**
 	4. Otherwise, there must be a black sibling. Change that sibling to red and move the square up. (it's now the problem of the parent). Recurse.
+
 ## [[Hashing]]
 
 Basics:
@@ -62,6 +63,7 @@ Collision handling:
 		- base = hash(key) % size
 		- offset = (collision number) x (hash2(key))
 		- new key = base + offer
+
 ## [[B-Tree]]
 B-Tree is a self-balanced Multi-way Search Tree, with height different is 0 everywhere. To maintain that, we need:
 - Internal nodes
@@ -87,6 +89,7 @@ Operations
 		- If can borrow from a sibling, borrow by *rotation*. During rotation, also bring the child of the "escalated" key to the other branch.
 		- If cannot, bring the parent *key* of itself down with one sibling; merging into 3 into one node
 		- then the parent *node* may be underflow (even having 0 keys), just fix recursively from (1)
+
 ## [[AVL Tree]]
 
 Is a type of self-balancing [[Binary Search Tree]] where:
@@ -118,6 +121,7 @@ Time complexity: O(NM), where M is log_R(max value)
 **Least significant digit first**
 
 Idea: At time t, make sure all the numbers are sorted by t least significant digits. Put them into buckets according to the (t-1)-th digit. Now all elements are sorted by (t+1) least significant digits. And it goes on.
+
 ## Misc
 - [[Union-Find]]
 - MST: [[Prim algorithm]] returns a different tree from [[Dijsktra algorithm]]
