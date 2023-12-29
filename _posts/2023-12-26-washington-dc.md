@@ -14,37 +14,37 @@ The central tourist attraction is called the "National Mall". To my surprise, it
 
 The saying goes "1600 Pennsylvania Ave is the most known address in the US", because it is where the president of the country is.
 
-![](../assets/dc/whitehouse.jpeg)
+![](/assets/dc/whitehouse.jpeg)
 
 *The White House*
 
 Funnily, my friend and I were pretty disappointed with the appearance of the White House. We thought it would be more beautiful. We actually thought the US Capitol was the White House. The Capitol was much prettier.
 
-![](../assets/dc/capitol.jpeg)
+![](/assets/dc/capitol.jpeg)
 
 *The US Capitol*
 
 Of course, we got excited for the christmas treees. There is a famous "National Christmas Tree" in front of the White House. It is a living palm tree, and is lighted by the president some time before every Christmas Eve. Around it are many other small trees representing the US states and territories. Aesthetically, this national tree is not as pretty as the other private trees, probably because it is harder to make a real living tree pretty.
 
-![](../assets/dc/national-tree.jpeg)
+![](/assets/dc/national-tree.jpeg)
 
 *National Christmas Tree*
 
-![](../assets/dc/tree.jpeg)
+![](/assets/dc/tree.jpeg)
 
 *A better tree, but fake*
 
-![](../assets/dc/tree2.jpeg)
+![](/assets/dc/tree2.jpeg)
 
 *Another better fake tree*
 
 The National Academy of Science is also in DC. I read about mathematicans and scientists heavily when I was a kid. Those biographies usually end with "he/she eventually elected to the National Academy of Science". So this place is a very sacred place to me.
 
-![](../assets/dc/einstein.jpeg)
+![](/assets/dc/einstein.jpeg)
 
 *Me with Einstein*
 
-![](../assets/dc/nas.jpeg)
+![](/assets/dc/nas.jpeg)
 
 *Me in front of (probably) the NAS building. I feel very inspired to pursue my PhD when standing here.*
 
@@ -56,7 +56,7 @@ On the night I arrived, I ate leftovers my friends brought from [Chinatown Expre
 
 In the next morning, we had breakdast at [Founding Farmers & Distillers](https://maps.app.goo.gl/Ak173dyqAbPo7wmg8). They served traditional American breakfast. My friends told me it is very popular, a must-go for breakfast in DC. As I did not understand most of the menu items, I chose the first item on every section and it was not a good choice in hindsight lol. No more bacons when eating out.
 
-![](../assets/dc/founding-farmers.jpeg)
+![](/assets/dc/founding-farmers.jpeg)
 
 *Breakfast at Founding Farmers and Distillers*
 
@@ -68,26 +68,26 @@ For dinner, we ate hot pot at a restaurant in Virginia called [Mala Tang](https:
 
 On our last day, we woke up pretty late and only had lunch. The place was [Dolan Uyghur](https://maps.app.goo.gl/oi9kizw8FDQzbGBSA). It is located in a lovely area of Washington, where houses are closer to each other and people seem to live a normal life here, in contrast with the 'liveless' building in the center of Washington. The food here was really good and affordable. And 'Dolan' is actually a ethnic minority in the West of China that is not well-recorded in the lireature. 
 
-![](../assets/dc/kazan-kebab.jpeg)
+![](/assets/dc/kazan-kebab.jpeg)
 
 *Kazan Kebab (lamb and bread) from Dolan*
 ## Transportation
 
 For getting for DC from Dallas, I bought Spirit Airlines ticket via Kayak. It was only $177 for two ways, bought one month before the holiday season, which was a pretty good deal for me. People say bad things about Spirit Airlines, but for the sake of travelling, the service suffices my need.
 
-![](../assets/dc/spirit.jpeg)
+![](/assets/dc/spirit.jpeg)
 
 *Spirit airlines*
 
 For moving between cities, we used Amtrak railway. They are pretty affordable, fast, and convenient. This is my first time using long-range railroad in the US. It is holistically better than that in Vietnam lol.
 
-![](../assets/dc/union-station.jpeg)
+![](/assets/dc/union-station.jpeg)
 
 *Union Station, the (main?) Amtrak station in DC*
 
 For getting around within DC, we used Metrorail, which is a system of high-speed underground trains. They are very convenient and efficient, like the MRT system in Singapore.
 
-![](../assets/dc/metro-elevator.jpeg)
+![](/assets/dc/metro-elevator.jpeg)
 
 *The elevator for the metro stations looking like a path to heaven*
 
