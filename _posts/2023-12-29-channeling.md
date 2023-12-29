@@ -1,6 +1,6 @@
 ---
 layout: post
-title: channeling (v)
+title: channel (v)
 tags: life
 ---
 
