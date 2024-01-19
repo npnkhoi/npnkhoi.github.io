@@ -6,4 +6,4 @@ tags: life photo
 
 ![](/assets/dallas-snow-2024.jpeg)
 
-![](/assets/dallas-snow-2024.jpeg)
+![](/assets/dallas-snow-2024-2.jpeg)
