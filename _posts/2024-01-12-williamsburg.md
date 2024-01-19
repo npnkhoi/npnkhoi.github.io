@@ -22,11 +22,11 @@ First, a bit of history. Virginia was where the British first set foot on during
 
 As such, the city of Williamsburg nowaways contains the *Conolial Williamsburg*, which is a senventeenth-century version of [the National Mall in Washington DC]({%post_url 2023-12-26-washington-dc%}). There you can find the historic buildings like the Capitol Building and the Governor's Palace, a long with new constructions for tourism like museums, spas, and hotels. It is a nice little square, good for walking and drinking hot chocolate.
 
-![](../assets/williamsburg/colonial-williamsburg-map.png)
+![](/assets/williamsburg/colonial-williamsburg-map.png)
 
 *Map of Colonial Williamsburg, cropped from [the official website](https://www.colonialwilliamsburg.org/map/).*
 
-![](../assets/williamsburg/collonial-wil-square.jpeg)
+![](/assets/williamsburg/collonial-wil-square.jpeg)
 
 *Mechant's Square. We found two men playing music on the street.*
 
@@ -38,11 +38,11 @@ It's a theme park where we spent New Year's Eve at. The best thing about them is
 
 An interesting campus. It looks very old outside with a Stanford vibe (based on the online photos of Stanford I've seen), while inside is pretty modern and convenient. My friend, an MS student in Operational Research, has their own desk in a private lab with a fridge and all. The Swem library has intersting stuffs like a machine that prints out 1, 3, or 5-minute story for you to read and kill time, or the study desks full of funny writings of generations of students.
 
-![](../assets/williamsburg/library-2.jpeg)
+![](/assets/williamsburg/library-2.jpeg)
 
 *Highly intense pun*
 
-![](../assets/williamsburg/library-1.jpeg)
+![](/assets/williamsburg/library-1.jpeg)
 
 *Highly nerdy pun*
 
