@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: Journal
+title: The PhD Journal
 ---
 
-Welcome to my online journal, where I share my thoughts and emotions during my PhD life. The topics may include computer science, education, sports, "life", and random photos. I try to post a few entries every week. Most of them are unfortunately not polished, but they are still a good channel to establish a deep connection between me and you.
+Welcome to *The PhD Journal*, where I share my thoughts and emotions during my time in graduate school. The topics include artificiial intelligence, computer science, education, sports, life, and random photos. I try to post a few entries every week, most of which are unfortunately not polished. However, they shoudld still be a good channel to establish a deep connection between us.
 
 Enjoy the ride!
