@@ -4,7 +4,7 @@ title: Minnesota
 tags: life
 ---
 
-Went to Minnesota to celebrate Thanksgiving with a host family that is at least 6 generations away from me. Aftermaths are a lot to unpack, revisit, and reflect.
+Went to Minnesota to celebrate Thanksgiving with a host family that is at least 6 generations away from me. Aftermaths are interesting to reflect.
 
 ![Mississipi river](/assets/mississipi.jpeg)
 *Mississipi river*
