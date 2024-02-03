@@ -9,7 +9,7 @@ layout: base
 
   {{ content }}
 
-  <div class="tags">
+  <!-- <div class="tags">
     [<a href="{{base_url}}/tags" >Posts by tags</a>]
     
     {% for tag in site.tags %}
@@ -17,7 +17,7 @@ layout: base
         {% assign tagged_posts = tag | last %}
         <a href="{{base_url}}/tags#{{ t | downcase | url_encode }}/" >{{ t | downcase }}</a> ({{ tagged_posts | size }})
     {% endfor %}
-  </div>
+  </div> -->
 
   <br>
 
