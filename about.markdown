@@ -10,7 +10,7 @@ I have been consistenly fascinated by numbers and computers, probably since 2015
 
 Regarding my personalities, my friends tell me that I am philosophical and optimistic. I usually ask people about their purposes in life. I believe most people are born with a purely kind heart, grow into badness at varying degrees, and can be good if they will.
 
-I love team sports. I mostly play ultiamate frisbee and badminton, while enjoying watching soccer.
+I love team sports. I mostly play ultimate frisbee and badminton, while enjoying watching soccer.
 
 If you have anything in common with me, say hi! I do like making new friends.
 

@@ -19,19 +19,20 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Khoi P. N. Nguyen
-email: npnkhoi@gmail.com
+email: npnkhoi at gmail dot com
 description: >- # this means to ignore newlines until "baseurl:"
-  A node in your knowledge graph.
+  PhD student in Natural Language Processing. Interested in maths, programming, and humanity.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-# github_username:  npnkhoi
-# linkedin: npnkhoi
+github_username:  npnkhoi
+linkedin_username: npnkhoi
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -59,3 +60,5 @@ google_analytics: G-VDHZ9BQ806
 # Mics
 page_excerpts: true
 show_excerpts: false
+# paginate: 5
+# paginate_path: "/blog/page:num/"

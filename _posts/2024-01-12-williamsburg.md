@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Greeting 2024 in Williamsburg, VA
-tags: life
+tags: travel
 ---
 
 <!-- 

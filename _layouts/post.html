@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+{% capture words %}
+{{ content | number_of_words }}
+{% endcapture %}
+
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
@@ -11,9 +15,21 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
+      
+      <br>
+      
+      <span>Reading Time: {{ words | divided_by: 180 | append: ' min' }}</span>
+      
+      <br>
+
+      Tags: 
       {%- for tag in page.tags -%}
-        <span class="post-meta"> #{{tag}} </span>
+      <span> <a href="{{base_url}}/tags/#{{ tag | downcase | url_encode }}/" class="post-meta">[{{tag}}]</a> </span>
+        
       {%- endfor -%}
+      
+      
+      
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}</p>

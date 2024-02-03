@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Minnesota
-tags: life
+tags: travel
 ---
 
 Went to Minnesota to celebrate Thanksgiving with a host family that is at least 6 generations away from me. Aftermaths are interesting to reflect.

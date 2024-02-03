@@ -9,6 +9,17 @@ layout: base
 
   {{ content }}
 
+  <div class="tags">
+    [<a href="{{base_url}}/tags" >Posts by tags</a>]
+    
+    {% for tag in site.tags %}
+        {% assign t = tag | first %}
+        {% assign tagged_posts = tag | last %}
+        <a href="{{base_url}}/tags/#{{ t | downcase | url_encode }}/" >{{ t | downcase }}</a> ({{ tagged_posts | size }})
+    {% endfor %}
+  </div>
+
+  <br>
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
@@ -16,19 +27,27 @@ layout: base
     {% assign posts = site.posts %}
   {% endif %}
 
-
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
+
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        {%- for tag in post.tags -%}
-          <span class="post-meta"> #{{tag}} </span>
+        
+        <!-- show reading time -->
+        {% capture words %}{{ post.content | number_of_words }}{% endcapture %}
+        <span class="post-meta"> | {{ words | divided_by: 180 | append: ' min reading' }}</span>
+        
+        <!-- show tags -->
+        {%- for t in post.tags -%}
+          <!-- <span class="post-meta"> #{{tag}} </span> -->
+          <a class="post-meta" href="{{base_url}}/tags#{{ t | downcase | url_encode }}/" >[{{ t | downcase }}]</a>
         {%- endfor -%}
+        
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}

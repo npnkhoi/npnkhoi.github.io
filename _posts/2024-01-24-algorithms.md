@@ -2,6 +2,7 @@
 layout: post
 title: Amazing Algorithms class
 tags: cs
+category: cs
 ---
 
 I just felt like I hitting the jackpot as I stumbled upon [Dr. Sergey Bereg](https://personal.utdallas.edu/~sxb027100/)'s class on *Design and Analysis of Computer Algorithms* ([class notes](https://personal.utdallas.edu/~sxb027100/cs6363/notes.htm)). Although the course title sounds easy and algorithms are something I have learned from highschool, the content of this course is a whole new level of technical challenges! 

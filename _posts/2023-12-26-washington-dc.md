@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chirtmas in Washington, DC
-tags: life
+tags: travel
 ---
 
 I spent the Chirstmas this year in Washington DC with my undergrad friends who are also studying in the US. It was very fun.
