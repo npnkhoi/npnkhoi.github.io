@@ -2,5 +2,5 @@ This website is created by [Jekyll](https://jekyllrb.com/), inspired by [Andrej 
 
 Coming features:
 - [x] Comment section
-- [ ] Filtering by tags
-- [ ] Estimated reading time (or word count)
+- [x] Filtering by tags
+- [x] Estimated reading time (or word count)

@@ -15,7 +15,7 @@ layout: base
     {% for tag in site.tags %}
         {% assign t = tag | first %}
         {% assign tagged_posts = tag | last %}
-        <a href="{{base_url}}/tags/#{{ t | downcase | url_encode }}/" >{{ t | downcase }}</a> ({{ tagged_posts | size }})
+        <a href="{{base_url}}/tags#{{ t | downcase | url_encode }}/" >{{ t | downcase }}</a> ({{ tagged_posts | size }})
     {% endfor %}
   </div>
 

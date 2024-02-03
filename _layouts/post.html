@@ -24,7 +24,7 @@ layout: default
 
       Tags: 
       {%- for tag in page.tags -%}
-      <span> <a href="{{base_url}}/tags/#{{ tag | downcase | url_encode }}/" class="post-meta">[{{tag}}]</a> </span>
+      <span> <a href="{{base_url}}/tags#{{ tag | downcase | url_encode }}/" class="post-meta">[{{tag}}]</a> </span>
         
       {%- endfor -%}
       
