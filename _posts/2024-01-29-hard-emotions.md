@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: 
+tags: life
 title: Emotions you've felt before but couldn't explain
 ---
 
