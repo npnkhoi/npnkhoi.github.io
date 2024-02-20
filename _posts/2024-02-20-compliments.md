@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Compliments for hand-writing
+title: Compliments
 tags: life
 ---
 
