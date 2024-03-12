@@ -45,7 +45,7 @@ layout: base
         <!-- show tags -->
         {%- for t in post.tags -%}
           <!-- <span class="post-meta"> #{{tag}} </span> -->
-          <a class="post-meta" href="{{base_url}}/tags#{{ t | downcase | url_encode }}/" >[{{ t | downcase }}]</a>
+          <a class="post-meta" style="text-decoration: underline;" href="{{base_url}}/tags#{{ t | downcase | url_encode }}/" >[{{ t | downcase }}]</a>
         {%- endfor -%}
         
         <h3>
