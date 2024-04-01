@@ -6,7 +6,7 @@ tags: science
 
 Dr. Daniel Kahneman has passed away on March 27, 2024, at age 90. He is a Nobel laureate in Economics, the so-called father of Behavioral Economics, and a legendary scientist.
 
-![Danny and his book](image.png)
+![Danny and his book](/assets/image.png)
 
 I was thinking about Dr. Kahneman a few days ago, about his System 1 and System 2 language about the human brain. I was pondering how to achieve such duality for AI. Then I received the saddening news a few days later.
 
