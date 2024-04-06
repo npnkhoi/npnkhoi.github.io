@@ -8,11 +8,9 @@ A new [preprint](http://arxiv.org/abs/2403.09629) from Stanford, arxiv-ed 3 week
 
 ![](/assets/uploads/screenshot-2024-04-06-at-8.57.50 am.png "Algorithm illustration")
 
-^ General overview
+*^ General overview of the algorithm (which looks pretty sophisticated to me)*
 
-The main algorithm here is pretty complicated (Algorithm 1). I only understand that the algorithm allows a lot of thinking time for every single token being generated. In the image above, I highlight in red the symbols that I am not sure about the semantics. For example, how do we assign a value to a function ($$log p^init_...$$)? What is the shape of tensor $$T_j$? What is the qualitative difference between the REINFORCE loss and the NLL (negative log-likelihood?) loss?
-
-
+The main algorithm here is pretty complicated (Algorithm 1). I only understand that the algorithm allows a lot of thinking time for every single token being generated. In the image below, I highlight in red the symbols that I am not sure about the semantics. For example, how do we assign a value to a function ($$\log p^{init}_{...}$$)? What is the shape of tensor $$T_j$? What is the qualitative difference between the REINFORCE loss and the NLL (negative log-likelihood?) loss?
 
 ![](/assets/uploads/screenshot-2024-04-06-at-2.15.45 pm.png)
 
