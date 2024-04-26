@@ -39,7 +39,7 @@ The winning team is the one that has a student from MIT. He said it took him onl
 
 ## Learnings
 
-* Financial vocabularies: return (selling price - buying price), F1 (log-return after one day), SF5 (sum of log-returns over 5 days), SF5_F1 (SF5, but minus F1 because one day is needed to see the closing price of today), ESG, dividents, stock split.
+* Financial vocabularies: return (selling price - buying price), F1 (log-return after one day), SF5 (sum of log-returns over 5 days), SF5_F1 (SF5, but minus F1 because one day is needed to see the closing price of today), ESG, dividents, stock split, trading days (252 in a year), etc.
 * Statistical literacy
 
   * Stock prediction is hard because the test is completely unseen, which they call *out-of-distribution* (OOD) data. All hypotheses are tested on *in-distribution* (ID) data only, because that OOD data is obviously not available during preparation time. And even when you remember everything over the last 20 years, who knows what will happen tomorrow?
