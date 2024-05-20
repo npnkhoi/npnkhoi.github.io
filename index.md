@@ -17,7 +17,7 @@ I am Khoi, a PhD student in [Computer Science at the University of Texas at Dall
 # News
 - [Feb 2024] Our paper entitled 'Lookahead Pathology in Monte-Carlo Tree Search' has been accepted to The 34th International Conference
 on Automated Planning and Scheduling - ICAPS 2024!
-- [Aug 2023] I have arrived at Dallas, Texas for graduate study.
+- [Aug 2023] I have arrived in Dallas, Texas for graduate study.
 - [Mar 2023] Our paper, [A Framework to Develop Automatic Speech Recognition for Low Resource Languages](https://dl.acm.org/doi/10.1145/3545947.3573271), won the Third Prize of the ACM Student Research Competition at SIGCSE TS 2023!
 
 # Publications
