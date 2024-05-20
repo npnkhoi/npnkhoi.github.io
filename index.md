@@ -8,7 +8,7 @@ bibliography: pub.bib
 
 <img src='assets/ava-shirt.JPG' width="30%">
 
-Profiles: [Google Scholar](https://scholar.google.com/citations?user=-oyrpkoAAAAJ&hl=en) - [GitHub](https://github.com/npnkhoi) - [LinkedIn](https://www.linkedin.com/in/npnkhoi/)
+Profiles: [Google Scholar](https://scholar.google.com/citations?user=-oyrpkoAAAAJ&hl=en) - [GitHub](https://github.com/npnkhoi) - [LinkedIn](https://www.linkedin.com/in/npnkhoi/) - [Curriculum Vitae](assets/Khoi%20Nguyen%20-%20CV.pdf)
 
 I am Khoi, a PhD student in [Computer Science at the University of Texas at Dallas](https://cs.utdallas.edu/). I study Natural Language Processing under the supervision of [Dr. Vincent Ng](https://www.hlt.utdallas.edu/~vince/). Currently I am working on **argument mining and multimodal reasoning**. In the past, I also worked with [Dr. Raghuram Ramanujan](https://www.davidson.edu/people/raghu-ramanujan) on Monte Carlo Tree Search.
 
