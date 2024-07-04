@@ -1,0 +1,53 @@
+---
+layout: post
+title: Install CUDA drivers on Azure VM
+date: 2024-07-04T16:51:00.000Z
+tags: ml
+---
+I took me a working day to figure this out, so you don't have to. I was given an Azure VM with T4 GPU. The task is to make the GPU usable by installing and *correctly* configuring the NVIDIA drivers.
+
+First of all, here are the things I tried that all did not work.
+
+**Failed attempt 1: Via the Azure web interface, install the [NVIDIA GPU Driver Extension](https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/hpccompute-gpu-linux).** 
+
+It will returns the following error:
+
+```
+{"code":"DeploymentFailed","target":"/subscriptions/5dc02639-bebc-4648-b4d9-4e2782a2975a/resourceGroups/rg-SolarCalc-sponsored/providers/Microsoft.Resources/deployments/microsoft.nvidia-gpu-driver-linux-20240704150113","message":"At least one resource deployment operation failed. Please list deployment operations for details. Please see https://aka.ms/arm-deployment-operations for usage details.","details":\[{"code":"ResourceDeploymentFailure","target":"/subscriptions/5dc02639-bebc-4648-b4d9-4e2782a2975a/resourceGroups/rg-SolarCalc-sponsored/providers/Microsoft.Compute/virtualMachines/vm-SolarCalc-sponsored/extensions/NvidiaGpuDriverLinux","message":"The resource write operation failed to complete successfully, because it reached terminal provisioning state 'Failed'."}]}
+```
+
+**Failed attempt 2: [Install the drivers manually](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/n-series-driver-setup#ubuntu)**
+
+The whole process went through. However, there was a weird sub-step in step 2, where it asks to set a password that you will never has a chance to use because you cannot log into the BIOS screen when the VM boots.
+
+![](/assets/uploads/screenshot-2024-07-04-at-16.28.28.png)
+
+Eventually, when the process finishes, I still got the following error
+
+```shell
+$ nvidia-smi
+NVIDIA-SMI has failed because it couldn't communicate with the NVIDIA driver. Make sure that the latest NVIDIA driver is installed and running.
+```
+
+However, this gives a hint that Secure Boot is the cause of the whole thing. It turns out that, with Secure Boot enabled, drivers (or firmwares?) need to be "signed" for security reasons. However, signing is such a complicated process that I never got it to work. Therefore, the solution requires disabling Secure Boot and forget about security.
+
+\*\*The solution: Disable Secure Boot\*\*
+
+I first [disabled Secure Boot](https://github.com/MicrosoftDocs/azure-docs/issues/111536#issuecomment-2062148078) in our VM. Then, I uninstalled all nvidia drivers that I have installed during previous attemps, using the following command:
+
+```shell
+$ sudo apt-get remove --purge '^nvidia-.*'
+```
+
+After that, I just followed [Azure's instructions](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/n-series-driver-setup#ubuntu) closely, including the two reboots. Note what they say about changing the link in step 3 if you are not on Ubuntu 22.04! 
+
+
+
+Finally, it works 🎆.
+
+![](/assets/uploads/screenshot-2024-07-04-at-16.48.28.png)
+
+## Concluding remarks
+
+* The discussion in this [Github issue](https://github.com/MicrosoftDocs/azure-docs/issues/111536) is the game changer for me, where their issue was exactly the same as mine and people described their process in great detail.
+* It is such a hassle to configure these stuffs :) I hope the benefits will outweigh these annoying steps.
