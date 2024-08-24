@@ -4,7 +4,7 @@ title: GoogleMaps is pretty cool
 tags: cs
 ---
 
-GoogleMaps maps our entire world. It technical and poetic at the same time.
+GoogleMaps maps our entire world. It's technical and poetic at the same time.
 
 ![](/assets/googlemaps.png)
 
