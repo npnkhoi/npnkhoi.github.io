@@ -8,7 +8,7 @@ bibliography: pub.bib
 
 <img src='assets/ava-shirt.JPG' width="30%">
 
-Profiles: [Google Scholar](https://scholar.google.com/citations?user=-oyrpkoAAAAJ&hl=en) - [GitHub](https://github.com/npnkhoi) - [LinkedIn](https://www.linkedin.com/in/npnkhoi/) - [Curriculum Vitae](assets/Khoi%20Nguyen%20-%20CV.pdf)
+Profiles: [Google Scholar](https://scholar.google.com/citations?user=-oyrpkoAAAAJ&hl=en) - [GitHub](https://github.com/npnkhoi) - [LinkedIn](https://www.linkedin.com/in/npnkhoi/) - [Resume](assets/Khoi%20Nguyen%20-%20Resume.pdf)
 
 Xin chào! I am Khoi, a doctoral student in the Human Language Technology Research Institute, the University of Texas at Dallas. Currently, I am working on **computational meme processing** with my supervisor, Professor [Vincent Ng](https://www.hlt.utdallas.edu/~vince/), hopefully automating some aspects of human humour.
 <!-- In the past, I worked with [Dr. Raghuram Ramanujan](https://www.davidson.edu/people/raghu-ramanujan) on Monte Carlo Tree Search. -->
