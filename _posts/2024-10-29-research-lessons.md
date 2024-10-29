@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paper rejections are normal: Thoughts on scientific writing"
-tags: ml
+tags: ml academia
 ---
 
 <!-- The act of writing is so beneficial that every ML reseracher, if not every scientist, should do it early, regularly, and seriously. It is important for at least two reasons: it helps thinking and it helps convincing.
