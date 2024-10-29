@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paper rejections are normal: Thoughts on scientific writing"
+title: "Normalizing paper rejections: Thoughts on scientific writing"
 tags: ml academia
 ---
 
