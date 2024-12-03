@@ -6,7 +6,7 @@ layout: post
 
 The central question to personal productivity is "what should I do today?"
 
-As a Senior [Overthinker of Productivity]({%post_url 2024-02-29-todos%}), let me introduce to you a for personal planning that I promise to have not overthought. It is working well for me. This should be applicable to knowledge workers who have multiple goals to achieve every week. I will start with what it is, then why it should be like that, then my experiments so far, and finally its limitations.
+As a Senior [Overthinker of Productivity]({%post_url 2024-02-29-todos%}), let me introduce to you a personal planning system that I have put a lot of thoughts into. It is working well for me. This should be applicable to knowledge workers who have multiple goals to achieve every week. I will start with what it is, then why it should be like that, then my experiments so far, and finally its limitations.
 
 ## The system
 
