@@ -39,9 +39,12 @@ some people to rate the generated memes on five aspects:
 Having defined the problem clearly, the rest of the job is rather easy for the
 authors. They designed a clever VLM system to generate the fill text for the
 meme. They first generate an *image description* for the tempolate using
-LLaVA-7B (the original version). After that, the it becomes a text-to-text
-generation problem, whereby they experimented with ChatGPT, Llama, and LLaVA to
-generate the fill text. For example, the prompt would be:
+LLaVA-7B (the original version). After that, it becomes a text-to-text
+problem. They experimented with ChatGPT, Llama, and LLaVA, using them in
+zero-shot prompting manner to
+generate the fill text. The entire system does not involve any training, only
+inference. For example, a prompt to generate the fill text to raise aware on
+climate change would be:
 
 > Generate a caption to turn the image into a humorous meme that highlights the
 > Causes of Climate Change to Support it.          
@@ -64,7 +67,6 @@ replicable metrics may be based on a more diverse set of raters, as done in
 that most of the memes are not that good, falling low on one of the metrics.
 That is understandable, as meme generation is a hard task requiring both
 contextual knowledge and a sense of humor. New modeling solutions should
-innovate these aspects.
+innovate on these aspects.
 
-Hopefully, in the future, humans can really enjoy AI-generated memes, while also motivated do good
-things thanks to good messages conveyed via those memes.
+Hopefully, in the future, humane can really enjoy AI-generated memes. Furthermore, the memes will convey inherently good messages, motivating people to do good things for a better world. In that sense, AI can actually change the world for the good!
