@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Blog
+title: The PhD Journal
 ---
 
 <!-- Welcome to *The PhD Journal*,  -->
