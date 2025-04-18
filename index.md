@@ -12,7 +12,7 @@ Profiles: [Google Scholar](https://scholar.google.com/citations?user=-oyrpkoAAAA
 
 Xin chào! I am Khoi, a doctoral student in the Human Language Technology Research Institute, University of Texas at Dallas, supervised by Professor [Vincent Ng](https://www.hlt.utdallas.edu/~vince/). 
 
-I work on **vision-language reasoning**. Specifically, my research explores meme processing as a structured and controlled environment to push the boundaries of machine perception, reasoning, and generation in real-world contexts. 
+I work on **vision-language reasoning**. Specifically, my research explores meme processing as a structured and controlled environment to push the boundaries of machine's vision-language perception, reasoning, and generation in real-world contexts. 
 
 <!--In the past, I worked with [Raghuram Ramanujan](https://www.davidson.edu/people/raghu-ramanujan) on Monte Carlo Tree Search.-->
 Outside academia, I have had experiences realizing ML research into actual systems. Those experiences were done at [Solano Energy](https://solano.energy/), [Koidra Tech](https://www.koidra.ai/), and [National University of Singapore](https://ims.nus.edu.sg/events/rips2022/). Before going into ML research, I was proudly the youngest intern at [Holistics](https://www.holistics.io/), serving as both a product analyst and a frontend engineer. I am also the author of [OneSchedule](https://npnkhoi.github.io/oneschedule/), a course planning website used by *many* students at Fulbright University Vietnam.
