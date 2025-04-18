@@ -15,14 +15,15 @@ Xin chào! I am Khoi, a doctoral student in the Human Language Technology Resear
 I work on **vision-language reasoning**. Specifically, my research explores meme processing as a structured and controlled environment to push the boundaries of machine's vision-language perception, reasoning, and generation in real-world contexts. 
 
 <!--In the past, I worked with [Raghuram Ramanujan](https://www.davidson.edu/people/raghu-ramanujan) on Monte Carlo Tree Search.-->
-Outside academia, I have had experiences realizing ML research into actual systems. Those experiences were done at [Solano Energy](https://solano.energy/), [Koidra Tech](https://www.koidra.ai/), and [National University of Singapore](https://ims.nus.edu.sg/events/rips2022/). Before going into ML research, I was proudly the youngest intern at [Holistics](https://www.holistics.io/), serving as both a product analyst and a frontend engineer. I am also the author of [OneSchedule](https://npnkhoi.github.io/oneschedule/), a course planning website used by *many* students at Fulbright University Vietnam.
+Outside academia, I have had experiences realizing ML research into actual systems. Those experiences were done at [Solano Energy](https://solano.energy/), [Koidra Tech](https://www.koidra.ai/), and [National University of Singapore](https://ims.nus.edu.sg/events/rips2022/). Before going into ML research, I was an intern at [Holistics](https://www.holistics.io/), serving as both a product analyst and a frontend engineer. I am also the author of [OneSchedule](https://npnkhoi.github.io/oneschedule/), a course planning website used by *many* students at Fulbright University Vietnam.
 
-In a further past, I was competiting in Competitive Programming at national and regional level ([CodeForces profile](https://codeforces.com/profile/pazabol), [press](https://fulbright.edu.vn/fulbright-students-win-bronze-medal-at-icpc-asia-can-tho-regional-contest/)). Back then, I had a wonderful time as an undergrad in the inaugural cohort of Fulbright University Vietnam, the first liberal arts university in the country.
+In a further past, I was competiting in Competitive Programming at national and regional level ([CodeForces profile](https://codeforces.com/profile/pazabol), [press](https://fulbright.edu.vn/fulbright-students-win-bronze-medal-at-icpc-asia-can-tho-regional-contest/)). Back then, I had a wonderful time as an undergrad in the inaugural cohort of Fulbright University Vietnam, the first liberal arts university in my home country.
 
-In my freetime, I enjoy playing ultimate frisbee, meditating, and [blogging](https://npnkhoi.github.io/blog).
+In my freetime, I enjoy playing ultimate frisbee, [meditating](https://dallasmeditationcenter.com/), and [blogging](https://npnkhoi.github.io/blog).
 
 # News
-- [April 2025] I will intern at [GE Aerospace](https://www.geaerospace.com/) Research (Albany, NY) in Summer 2025.
+- [April 2025] I has been awarded the **Louis Beecherl, Jr. Graduate Fellowship** at UT Dallas.
+- [April 2025] I will be joining an internship at **[GE Aerospace](https://www.geaerospace.com/) Research** (Albany, NY) in Summer 2025.
 - [Sep 2024] Paper [Computational Meme Understanding: A Survey](https://aclanthology.org/2024.emnlp-main.1184/) accepted at **EMNLP 2024** (Miami, Florida, USA)
 - [Feb 2024] Paper [Lookahead Pathology in Monte-Carlo Tree Search](https://ojs.aaai.org/index.php/ICAPS/article/view/31501) accepted at **ICAPS 2024** (Banff, Calgary, Canada)
 <!-- - [Aug 2023] I have arrived in Dallas, Texas for graduate study. -->
