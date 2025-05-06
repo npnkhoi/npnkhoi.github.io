@@ -22,7 +22,7 @@ We were discussing a computational experiment. (Bear with me for some technical 
 
 At first, I was defensive with the interruption. A thought flashed through my head: “Oh, he said I am wrong? How could that happen?” Immediately after that, he explained, and his reasoning was mind-opening. He said that a baseline is not an ablated model. Instead, a baseline is an implementation of the latest technology. That was a simple yet effective definition of baselines that clearly separates the wrong design from the correct one. That was also a piece of knowledge that I didn’t know; but as soon as I hear it, I find it truthful. So I quickly recovered from my defensiveness and moved on with the discussion.
 
-I sometimes (i.e., often) get defensive like that with friends, teammates, and even mentors. From this event, I was reminded that, when a work discussion turns into a debate, it is very important to stay both (1) critical and (2) open-minded. If you really think about it, they can easily become competing objectives. It takes practice to maintain both.
+I sometimes (i.e., often) get defensive like that with friends, teammates, and even mentors. From this event, I was reminded that, when a work discussion turns into a debate, it is very important to stay both (1) critical and (2) open-minded. If you really think about it, you will see that they can easily become competing objectives if the learner is not skillful enough. It takes practice to maintain both.
 
 But wait a minute. These objectives sound very familiar to me. I have seen it somewhere…
 
