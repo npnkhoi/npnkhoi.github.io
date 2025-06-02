@@ -22,10 +22,12 @@ In a further past, I was competiting in Competitive Programming at national and 
 In my freetime, I enjoy playing ultimate frisbee, [meditating](https://dallasmeditationcenter.com/), and [blogging](https://npnkhoi.github.io/blog).
 
 # News
-- [April 2025] I has been awarded the **Louis Beecherl, Jr. Graduate Fellowship** at UT Dallas.
-- [April 2025] I will be joining an internship at **[GE Aerospace](https://www.geaerospace.com/) Research** (Albany, NY) in Summer 2025.
+- [May 2025] Paper "MemeQA: Holistic Evaluation for Meme Understanding" accepted at **ACL 2024** (Vienna, Austria)
+- [May 2025] I passed my Qualification Exam at UTD.
+- [April 2025] I has been awarded the Louis Beecherl, Jr. Graduate Fellowship at UT Dallas.
+- [April 2025] I will be joining an internship at GE Aerospace Research (Albany, NY) in Summer 2025.
 - [Sep 2024] Paper [Computational Meme Understanding: A Survey](https://aclanthology.org/2024.emnlp-main.1184/) accepted at **EMNLP 2024** (Miami, Florida, USA)
-- [Feb 2024] Paper [Lookahead Pathology in Monte-Carlo Tree Search](https://ojs.aaai.org/index.php/ICAPS/article/view/31501) accepted at **ICAPS 2024** (Banff, Calgary, Canada)
+<!-- - [Feb 2024] Paper [Lookahead Pathology in Monte-Carlo Tree Search](https://ojs.aaai.org/index.php/ICAPS/article/view/31501) accepted at **ICAPS 2024** (Banff, Calgary, Canada) -->
 <!-- - [Aug 2023] I have arrived in Dallas, Texas for graduate study. -->
 <!-- - [Mar 2023] Our paper, [A Framework to Develop Automatic Speech Recognition for Low Resource Languages](https://dl.acm.org/doi/10.1145/3545947.3573271), won the Third Prize of the ACM Student Research Competition at SIGCSE TS 2023! -->
 
