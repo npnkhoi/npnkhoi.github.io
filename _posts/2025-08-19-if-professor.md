@@ -14,6 +14,4 @@ If I were a professor, my life would probably be slow and steady. My problems wo
 
 If I were a professor, I would become attached to the university I am in, as well as the research community I am in. I would develop lifelong friendships in those communities, with the co-authors, the other professors in the same hall way, or the alumni who used to see me in office hours. I would refrain from job-switching because doing so requires a lot of work. However, I would be entitled to travel internationally at least once every year for conferences.
 
-![image.png](/assets/thay-career.png)
-
 And if I were a professor, I would probably get paid enough to raise a family.
