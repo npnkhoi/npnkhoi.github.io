@@ -32,7 +32,7 @@ I remember downtown Schenectady, a cute little neighborhood with a brand new tra
 
 *Pubs in Downtown Schenectady*
 
-I remember my longer trips to see sights and meet wholesome people. I went to Utica (2 hours west) to see my favorite undergrad professor and spent time enjoying the nature at Buttermilk Falls, Verona Beach, and Green Lakes. I went to Blue Cliff Monastery (2 hours south) and got spiritually enriched. I went to Lake George (1 hour north) and had a fun hike with Henny the co-intern. And I went to New York City (4 hours east) to attend the film premire of my friend, which made me thinks about the nature of skill development.
+I remember my longer trips to see sights and meet wholesome people. I went to [Utica]({%post_url 2025-07-07-utica%}) (2 hours west) to see my favorite undergrad professor and spent time enjoying the nature at Buttermilk Falls, Verona Beach, and Green Lakes. I went to [Blue Cliff Monastery]({%post_url 2025-07-22-blue-clif%}) (2 hours south) and got spiritually enriched. I went to Lake George (1 hour north) and had a fun hike with Henny the co-intern. And I went to New York City (4 hours east) to attend the film premire of my friend, which made me thinks about [the nature of skill development]({%post_url 2025-08-15-spl%}).
 
 ![BB84EF39-C507-44F6-BE1C-FF985B87992E.JPG](/assets/memories%20of%20upstate%20ny%2025a82f17ea3680299731debca659e947/BB84EF39-C507-44F6-BE1C-FF985B87992E.jpg)
 
