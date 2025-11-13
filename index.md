@@ -8,7 +8,7 @@ bibliography: pub.bib
 
 <img src='assets/ava-shirt.JPG' width="30%">
 
-Profiles: [Google Scholar](https://scholar.google.com/citations?user=-oyrpkoAAAAJ&hl=en) - [GitHub](https://github.com/npnkhoi) - [LinkedIn](https://www.linkedin.com/in/npnkhoi/) - [Resume](assets/250925%20Khoi%20Nguyen%20-%20Resume.pdf)
+Profiles: [Google Scholar](https://scholar.google.com/citations?user=-oyrpkoAAAAJ&hl=en) - [GitHub](https://github.com/npnkhoi) - [LinkedIn](https://www.linkedin.com/in/npnkhoi/) - [Resume](assets/Khoi%20Nguyen%20-%20Resume.pdf)
 
 Xin chào! I am Khoi, a doctoral student in the Human Language Technology Research Institute, University of Texas at Dallas, supervised by Professor [Vincent Ng](https://www.hlt.utdallas.edu/~vince/). I work on **vision-language reasoning**. Specifically, my research explores meme processing as a structured and controlled environment to push the boundaries of machine's vision-language perception, reasoning, and generation in real-world contexts. My research has been published in the most pretigious NLP conferences (ACL and EMNLP).
 
