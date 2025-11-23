@@ -30,12 +30,23 @@ In the morning of the third day, there was a Dharma talk by Thay Phap Khoi. Duri
 
 ![image.png](/assets/Sayings%20at%20Blue%20Cliff%20Monastery/image%201.png)
 
-> Before enlightenment, carry water, chop wood. After enlightenment, chop wood, carry water.
-> 
+> A man wanted to become a mindfulness teacher, so he went to a practice center to learn about mindfulness. After two years of practicing, he went to his teacher to get certified. It was a rainy day, so he brought a cloak and an umbrella with him, leaving them outside. When he walked in, his teacher greeted him and told him to have a seat. Then the teacher asked: where did you put your umbrella, on the left or the right of the cloak? He came back and practice for another six years.
+
+<!-- > It takes only one moment of forgetfulness to lose things. -->
+
+> Once upon a time, our Teacher went to see his teacher. After leaving, he accidentally closed the door abruptly, making a big sound. His teacher told him to come back and close the door again. From that point on, that never happened again... Having lived with our Teacher, we know that that story is true. He is always very mindful.
+
+Both of these stories illustrate the level of mindfulness that people in Plum Village practice. They are not an argument for why we should be mindful. In fact, thay Phap Khoi said that Zen stories are very abrupt. They get to the climax, then suddenly end. Perhaps, the point of those stories are not to convince everyone to be mindful. Instead, it is a guide for somebody who is already on the path of mindfulness practice.
+
+<!-- > You can be fast and mindful. The point is to be aware. But it is easier to slow down. -->
+
+> Before enlightenment, carry water, chop wood. After enlightenment, chop wood, carry water. Same thing \*giggle\*.
 
 People who are new to spiritual practices usually wonder how to get enlightened, thinking it would be very cool to be so. However, enlightenment is not an apparent life changing event. In fact, nothing will change on the outlook of a person. They will have to do all the things they have to do, go through all their struggles, love, laugh, cry, and be sad. However, what is different about enlightenment is a high level of mindfulness, mental clarity, and spiritual insights. It is a state of mind.
 
 In the main meditation hall of Blue Cliff hung a big calligraphy of the saying “*This is it*”. Maybe the happiness you have been looking for is already present around you: your health that enables you to wake up everyday, your family who loves you unconditionally, your freedom to choose what to do and how to react to things around you, etc. Look around, and you will realize that the world is more abundant than you thought.
+
+> After eating porridge, the teacher says: then go wash it. And then, he became enlightened.
 
 ## The Brother Who Camps
 
@@ -45,7 +56,7 @@ On that Sunday morning, after the 5am meditation and stick exercise, I went back
 
 *In this wood we sit in a circle in an early morning, watching wood being burned, drinking tea, eating European snacks, and chatted about life.*
 
-> This is what a king would feel like. (”Vua chúa cũng chỉ đến thế thôi”)
+> A king wouldn't feel better than this. (”Vua chúa cũng chỉ đến thế thôi”)
 > 
 
 We were talking about the hut of the Brother. It was a fancy hut, looking like those Mongolian huts seen in historical movies. Inside the hut, there are AC, heater, and a fridge. Outside the hut is apparently a beautiful scene with green leaves, tall trees, and bird songs every morning. Isn’t this monk’s life at a king’s level of sufficiency?
@@ -68,8 +79,8 @@ On the last lunch before departure, I sat with a senior nun who I never talked t
 
 When I said I work on AI research, the Sister asked me why, given its tendency to harm society so much (via job displacement, misinformation, etc.) I said this is a defining piece of technology of the century, so even when I can’t change anything big, I want to understand how it works and hopefully have some say in its development. The Sister quoted that answer of Thay to further encourage me to continue my career path, knowing that it has such a noble purpose.
 
-> - Will there is a new supreme leader of Plum Village?
-- Probably not. No one has ever, ever, come near to Thay’s level of insight.
+> \- Will there be a new worldwide leader of the Plum Village tradition?
+\- Probably not. No one has ever, ever, come near to Thay’s level of insight.
 > 
 
 As wise as her, she still thinks Thay’s level of insight is yet reachable. This inspires me to read more, think more, and reflect more. There is so much for me to practice, so many insights about myself, my communities, and my world to explore.

@@ -4,6 +4,8 @@ tags: math
 layout: post
 ---
 
+_Disclaimer: Nov 23, 2025: After re-reading this post, I saw several conceptual errors and typos. I will try to fix them, but please do not take what I write here as the source of truth. I recommend reading Linear Algebra textbooks._
+
 I recently realized why linear algebra is called linear algebra. It starts from the word *algebra*, which is the study of abstract systems and the manipulation of expressions within those systems. In *linear algebra*, that abstract system contains vectors, matrices, and tensors. So it studies how to manipulate matrix expressions. For example, it allows us to replace the expression $A^{-1}$ by $A^T$ when $A$ is an orthonormal matrix. 
 
 Such manipulations can lead to powerful results and applications. In this post, let’s visit one of those powerful things: the problem of **matrix decomposition**. The objective of this problem is to express an input matrix $M$ as a product of two or three “special” matrices. This decomposition in itself is perhaps not yet useful. However, it enables important downstream tasks, especially in pattern recognition and data compression. For example, Principle Component Analysis is a technique for compressing data, visualizing high-dimensional data (by compressing to 2D or 3D), and extracting linear features, among many other usages. At the same time, PCA is directly based on the Eigen Value Decomposition technique.
