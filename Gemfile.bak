@@ -35,6 +35,12 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.8"
 
+
+
+# Prevent em-websocket (and thus eventmachine) from being installed
+# Jekyll requires em-websocket but we don't use livereload, so we override it
+gem "em-websocket", "0.5.3", :require => false
+
 # Use local stub gem for em-websocket to avoid eventmachine dependency
 # Jekyll requires em-websocket but we don't use livereload
 gem "em-websocket", path: "vendor/gems/em-websocket-stub"
